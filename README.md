@@ -7,9 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/zbulu](https://linktr.ee/zbulu)
 
-- 📫 How to reach me **gulperiozblt@gmail.com**
-
-- ⚡ Fun fact **I'm a aviation lover, nerd gamer. Also I'm a graphic designer.**
+- ⚡ **I'm a aviation lover, nerd gamer. Also I'm a graphic designer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
