@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gperyy&label=Profile%20views&color=7a8aff&style=flat" alt="gperyy" /> </p>
 
-- 🔭 I’m currently working on **Re:Coded FE Bootcamp 2023**
+- 🔭 I’m currently study on **Re:Coded FE Bootcamp 2023**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/zbulu](https://linktr.ee/zbulu)
 
