@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently studying on Re: Coded FE Bootcamp 2023<br><br>👨‍💻 All of my projects are available at https://linktr.ee/zbulu<br><br>⚡ I'm an aviation lover, nerd gamer. Also, I'm a graphic designer.
+🔭  Hi! I'm Gülperi, a Front-End Web Developer | React
+📚 Graduated from Econometrics. Also graphic designer.
+💡 Diving deep into Front-End Web Development at the highly selective Re:Coded bootcamp.
+👨‍💻 All of my projects are available at https://linktr.ee/zbulu<br><br>⚡ I'm an aviation lover, nerd gamer. Also, I'm a graphic designer.
+🤝Reach me to connect and collaborate. 
 
 <div align="center">
   <img height="200" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif"  />
