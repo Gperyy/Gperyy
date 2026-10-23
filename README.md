@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  Hi! I'm Gülperi, a Front-End Web Developer | React<br><br>
+🔭  Hi! I'm Gpery, a Front-End Web Developer | React<br><br>
 📚 Graduated from Econometrics. Also graphic designer.<br><br>
 💡 Diving deep into Front-End Web Development at the highly selective Re:Coded bootcamp.<br><br>
 👨‍💻 All of my projects are available at https://linktr.ee/zbulu<br><br>⚡ I'm an aviation lover, nerd gamer. Also, I'm a graphic designer.<br><br>
